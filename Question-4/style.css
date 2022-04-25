@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+    background-color: aqua;
+}
+.box-orange{
+    background: orange;
+    height: auto;
+    width: 500px;
+    padding: 10px;
+}
+.box-blue{
+    background: lightskyblue;
+    height: auto;
+    width: 500px;
+    position: static;
+    padding: 10px;
+}.box-orange1{
+    position: relative;
+    background: orange;
+    padding: 10px;
+    height: auto;
+    width: 500px;
+    top:100px;
+    left: 520px;
+}
+img{
+    width: 400px;
+    height: auto;
+}
+.img{
+    float:left;
+}
+.img1{
+    float: right;
+}
+.container{
+    height: 400px;
+}
+p.inline {
+    background-color: gold;
+    display: inline; }
+a{
+    display: block;
+}
+.hid {
+    display: none;
+  }
+.hidden{
+    display: hidden;
+}  
